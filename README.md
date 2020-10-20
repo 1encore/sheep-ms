@@ -19,4 +19,8 @@ DB_PASSWORD=
 
 Check pls .env file for more
 
+After starting the database run the following command:
+
+php artisan migrate:refresh --seed
+
 Developed by Yerbolat 1encore Beisenbek
